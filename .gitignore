@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+fastlane/Appfile
+fastlane/Fastfile
+fastlane/README.md
+fastlane/report.xml
