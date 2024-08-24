@@ -5,8 +5,6 @@
 ## Overview
 **Eyed Tools** is an open-source Android application for generating secure and customizable passwords. Developed using **Kotlin** and **Jetpack Compose**, Eyed Tools adheres to Material Design principles, offering a smooth and user-friendly experience. This app provides a straightforward way to create strong passwords that enhance your online security.
 
-Whether you need a password for personal accounts, work, or online services, Eyed Tools makes it easy to generate, manage, and store passwords securely.
-
 ## Features
 - **Password Customization**: Generate passwords with customizable length, character sets (e.g., uppercase, lowercase, numbers, symbols), and complexity levels.
 - **Material Design**: Beautifully crafted user interface following Google's Material Design principles.
